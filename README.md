@@ -13,9 +13,9 @@
 
 6 - User Authentication (done)
 
-7 - User Account and Profile Picture
+7 - User Account and Profile Picture (done)
 
-8 - Create, Update, and Delete Posts
+8 - Create, Update, and Delete Posts (in progress)
 
 9 - Pagination
 
